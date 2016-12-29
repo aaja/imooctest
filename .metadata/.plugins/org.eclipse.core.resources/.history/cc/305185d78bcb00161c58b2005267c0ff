@@ -1,0 +1,21 @@
+import org.junit.Before;
+import org.junit.Test;
+
+public class StudentsTest {
+	
+	@Before
+	public void init()
+	{
+		
+	}
+	@After
+	public void destroy()
+	{
+		
+	}
+	@Test
+	public void testSaveStudents()
+	{
+		
+	}
+}

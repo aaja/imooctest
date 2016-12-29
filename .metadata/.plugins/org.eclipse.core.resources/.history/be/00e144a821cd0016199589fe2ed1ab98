@@ -1,0 +1,25 @@
+//Ñ§ÉúÀà
+public class Students {
+	
+	
+	private int sid;
+
+	public Students(int sid) {
+		super();
+		this.sid = sid;
+	}
+
+	@Override
+	public String toString() {
+		return "Students [sid=" + sid + "]";
+	}
+
+	public int getSid() {
+		return sid;
+	}
+
+	public void setSid(int sid) {
+		this.sid = sid;
+	}
+	
+}
